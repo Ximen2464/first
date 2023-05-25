@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("변경");
 		
 		System.out.println("세번째 커밋");
-		//주성 0525
+		//주석 0525 ㅇ을 ㄱ으로 바꿈
 	}
 
 }
