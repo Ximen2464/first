@@ -1,6 +1,7 @@
 
 public class Hello {
 	public static void main(String[] args) {
+		//다른 문장으로 크롬 원격에서 작업 
 		System.out.println("Hello world");
 		
 		System.out.println("변경");
